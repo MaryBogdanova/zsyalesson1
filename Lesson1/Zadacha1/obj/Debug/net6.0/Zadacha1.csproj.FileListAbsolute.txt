@@ -3,3 +3,13 @@ C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками прог�
 C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\Zadacha1.AssemblyInfoInputs.cache
 C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\Zadacha1.AssemblyInfo.cs
 C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\bin\Debug\net6.0\Zadacha1.exe
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\bin\Debug\net6.0\Zadacha1.deps.json
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\bin\Debug\net6.0\Zadacha1.runtimeconfig.json
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\bin\Debug\net6.0\Zadacha1.dll
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\bin\Debug\net6.0\Zadacha1.pdb
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\Zadacha1.dll
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\refint\Zadacha1.dll
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\Zadacha1.pdb
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\Zadacha1.genruntimeconfig.cache
+C:\Users\bmary\Desktop\АЙТИ\Знакомство с языками программирования\project\Lesson1\Zadacha1\obj\Debug\net6.0\ref\Zadacha1.dll
